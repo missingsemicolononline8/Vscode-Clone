@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0,0,256,256">
+<defs>
+<clipPath id="clip-1">
+<path d="M0,256v-256h256v256zM169.42857,108.28571v41.14286h-41.14286v41.14286h41.14286v41.14286h41.14286v-41.14286h41.14286v-41.14286h-41.14286v-41.14286z" id="overlayBgMask" fill="none"></path>
+</clipPath>
+</defs>
+<g clip-path="url(#clip-1)" fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal">
+<g transform="scale(16,16)" fill="currentcolor"><path d="M2.5,2c-0.82422,0 -1.5,0.67578 -1.5,1.5v9c0,0.82422 0.67578,1.5 1.5,1.5h11c0.82422,0 1.5,-0.67578 1.5,-1.5v-7c0,-0.82422 -0.67578,-1.5 -1.5,-1.5h-6.70312l-0.65234,-1.21094c-0.26172,-0.48828 -0.76953,-0.78906 -1.32031,-0.78906zM2.5,3h2.32422c0.18359,0 0.35156,0.10156 0.44141,0.26172l0.39844,0.73828h-3.66406v-0.5c0,-0.28125 0.21875,-0.5 0.5,-0.5zM2,5h11.5c0.28125,0 0.5,0.21875 0.5,0.5v7c0,0.28125 -0.21875,0.5 -0.5,0.5h-11c-0.28125,0 -0.5,-0.21875 -0.5,-0.5z"></path>
+</g>
+</g>
+<g fill="currentcolor" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal">
+<g transform="translate(142,122) scale(13.71429,13.71429)" id="overlay">
+<path d="M7,3h-3v-3h-1v3h-3v1h3v3h1v-3h3z"></path>
+</g>
+</g>
+</svg>

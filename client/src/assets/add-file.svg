@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0,0,256,256">
+<defs>
+<clipPath id="clip-1">
+<path d="M0,256v-256h256v256zM169.42857,108.28571v41.14286h-41.14286v41.14286h41.14286v41.14286h41.14286v-41.14286h41.14286v-41.14286h-41.14286v-41.14286z" id="overlayBgMask" fill="none"></path>
+</clipPath></defs><g clip-path="url(#clip-1)" fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal">
+<g transform="scale(16,16)" fill="currentcolor">
+<path d="M4.5,2c-0.82422,0 -1.5,0.67578 -1.5,1.5v9c0,0.82422 0.67578,1.5 1.5,1.5h7c0.82422,0 1.5,-0.67578 1.5,-1.5v-7.20703l-3.29297,-3.29297zM4.5,3h4.5v3h3v6.5c0,0.28125 -0.21875,0.5 -0.5,0.5h-7c-0.28125,0 -0.5,-0.21875 -0.5,-0.5v-9c0,-0.28125 0.21875,-0.5 0.5,-0.5zM10,3.70703l1.29297,1.29297h-1.29297z"></path>
+</g>
+</g>
+<g fill="currentcolor" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal">
+<g transform="translate(142,122) scale(13.71429,13.71429)" id="overlay">
+<path d="M7,3h-3v-3h-1v3h-3v1h3v3h1v-3h3z"></path>
+</g>
+</g>
+</svg>

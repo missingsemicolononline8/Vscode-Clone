@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+html,body {
+  width: 100%;
+  height: 100%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.filetree {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  overflow: hidden;
+  overflow-y: scroll;
+  transition: --var1 .5s;
+}
+
+@property --var1 {
+  syntax: "<color>";
+  inherits: true;
+  initial-value: rgba(255, 255, 255, 0);
+}
+
+.filetree:hover {
+  --var1: #aaa;
+}
+
+.filetree::-webkit-scrollbar-thumb {
+  background: var(--var1);
+}
+
+.files:focus .active {
+ background-color: rgb(96 165 250);
+}
+
+.files .active {
+  background-color: rgba(154, 153, 153, 0.548);
+}
+
+#activeTab {
+  @apply border-t-blue-700 bg-zinc-800
+}
+
+#activeTab > i {
+  display: block;
+}
